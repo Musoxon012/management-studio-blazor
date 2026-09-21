@@ -1,6 +1,8 @@
 # Managment Studio with Blazor
 
 ![image](https://github.com/user-attachments/assets/1891307b-6a18-4943-a295-7f5789cab892)
+<img width="1916" height="916" alt="Screenshot 2026-09-21 123752" src="https://github.com/user-attachments/assets/14b5ce32-ec4f-45a8-a559-3b436cd21e70" />
+
 Description
 Management Studio is a Blazor Server application designed for managing PostgreSQL databases. The application is developed using ADO.NET and utilizes asynchronous programming (Async). Users can connect to a PostgreSQL server, manage databases, and execute SQL queries directly through the interface.
 
